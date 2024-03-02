@@ -1,14 +1,9 @@
 
 > Otevřít tuto stránku v aplikaci [https://matthewburda.github.io/testovaci-mistnost/](https://matthewburda.github.io/testovaci-mistnost/)
 
-## Použít jako rozšíření
+## Tutoriál
 
-Toto úložiště lze přidat jako **rozšíření** v aplikaci MakeCode.
-
-* otevřít [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klikněte na možnost **Nový projekt**
-* klikněte na možnost **Rozšíření** v nabídce s ozubeným kolem
-* vyhledat **https://github.com/matthewburda/testovaci-mistnost** a importovat
+* [tutorial](/tutorial)
 
 ## Upravit tento projekt
 

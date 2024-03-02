@@ -1,5 +1,5 @@
 {
-    "name": "Testovací místnost",
+    "name": "testovaci-mistnost",
     "description": "",
     "dependencies": {
         "core": "*",

@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="2m~0iay5rSRYO6yrMVMr" x="20" y="20"></block><block type="device_forever" id="r4W|=%R4r?}+E`De]bQ?" x="225" y="20"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><comment id="ue_Q*D]i2@(q6*+ZS0eh" data="0" x="489" y="15" h="143.9887237548828" w="188.32904052734375">Toto je poznámka</comment><block type="pxt-on-start" id="uRgQ=oW7dfE7!5Jdz7Nx" x="10" y="10"></block></xml>

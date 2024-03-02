@@ -1,7 +1,7 @@
 
 > Otevřít tuto stránku v aplikaci [https://matthewburda.github.io/testovaci-mistnost/](https://matthewburda.github.io/testovaci-mistnost/)
 
-## Tutoriál
+## Projekt
 
 * [Tutoriál](/testovaci-mistnost/tutorial)
 

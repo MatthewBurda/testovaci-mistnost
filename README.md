@@ -3,7 +3,7 @@
 
 ## Tutoriál
 
-* [tutorial](/tutorial)
+* [Tutoriál](/tutorial)
 
 ## Upravit tento projekt
 

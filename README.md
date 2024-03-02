@@ -3,7 +3,7 @@
 
 ## Tutoriál
 
-* [Tutoriál](/tutorial)
+* [Tutoriál](/testovaci-mistnost/tutorial)
 
 ## Upravit tento projekt
 

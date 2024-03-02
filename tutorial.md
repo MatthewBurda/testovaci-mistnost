@@ -11,5 +11,6 @@ basic.showIcon(IconNames.Happy)
 ## Krok 2: změna smajlíka na srdce
 
 ```blocks
+basic.showIcon(IconNames.Happy)
 basic.showIcon(IconNames.Heart)
 ```
